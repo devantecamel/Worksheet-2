@@ -1,5 +1,5 @@
 <!Doctype html>
-<html>
+</html>
 	<head>
 	  <link rel="stylesheet" href="replace this.css" type="text/css">
 	</head>
@@ -19,8 +19,8 @@
 		<nav>
 	      <li>Home
 	      <li>about
-	      <li>Content
-	  <nav>
+	      </li>Content
+	  </nav>
 	      <header> This is the header
 				</header>
 					<section> this is the section
